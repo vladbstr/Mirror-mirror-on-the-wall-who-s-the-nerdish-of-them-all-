@@ -16,13 +16,10 @@ yLabels = []
 xTrain = []
 
 for root, dirs, files in os.walk(imageDir):
-    print(root, dirs, files)
     for file in files:
-        print(file)
         if file.endswith("png") or file.endswith("jpg"):
             path = os.path.join(root, file)
             label = os.path.basename(root)
-            print(label)
 
             if not label in labelIds:
                 labelIds[label] = currentId
