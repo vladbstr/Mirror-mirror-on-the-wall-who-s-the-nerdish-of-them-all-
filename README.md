@@ -8,7 +8,7 @@ The interface has 2 states:
 •	the hibernation mode in which only the current time and date is displayed in a large format, to be visible from a distance.
 •	 work mode in which the calendar, news, weather and emails are displayed when a person is nearby and is detected by the PIR motion sensor.
 
-#INSTALL DEPENDENCIES:
+!INSTALL DEPENDENCIES:
 
 Go to your project file and create a virtual environment with next command:
 
