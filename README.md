@@ -19,7 +19,7 @@ Activate your repository:
 	source env/bin/activate
 To install all dependencies in env:
 
-	python3 pip install requirments.py
+	pip install -r requirements.txt
 
 	
 #Make project go on:
