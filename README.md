@@ -1,14 +1,16 @@
 # Smart-mirror-software-in-python
 
-#DESCRIPTION OF THE PROJECT:
+# DESCRIPTION OF THE PROJECT:
 
    The project is based on the concept of smart mirror, which involves placing a monitor behind a glass with a high level of transparency. The monitor will display important data for the user such as: weather, current time and date, google calendar, latest news and emails. To protect the user's privacy, the google emails and calendar will only be displayed if the user is facial recognized.
 
 The interface has 2 states:
+
 •	the hibernation mode in which only the current time and date is displayed in a large format, to be visible from a distance.
+
 •	 work mode in which the calendar, news, weather and emails are displayed when a person is nearby and is detected by the PIR motion sensor.
 
-!INSTALL DEPENDENCIES:
+# INSTALL DEPENDENCIES:
 
 Go to your project file and create a virtual environment with next command:
 
@@ -22,7 +24,7 @@ To install all dependencies in env:
 	pip install -r requirements.txt
 
 	
-#Make project go on:
+# Make project go on:
 
 In order to start the project, fill with your data in the smart_mirror.py file and after running the take_photos.py file, which will take 20 pictures of you with the help of the Raspberry camera. Make sure that the light hits the front of your face and make sure that 20 clear pictures came out, checking the images folder.
 	
