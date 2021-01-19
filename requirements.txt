@@ -12,3 +12,6 @@ scipy==1.5.4
 tzlocal==2.1
 urllib3==1.25.10
 webdriver-manager==3.2.2
+picamera==1.13
+RPi.GPIO==0.7.0
+urllib3==1.24.1
