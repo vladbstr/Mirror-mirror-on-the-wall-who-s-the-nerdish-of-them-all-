@@ -12,7 +12,7 @@ The interface has 2 states:
 
 # INSTALL DEPENDENCIES:
 
-+ Go to your project file and create a virtual environment with next command:
+Go to your project file and create a virtual environment with next command:
 
 	python3 -m venv env
 	
