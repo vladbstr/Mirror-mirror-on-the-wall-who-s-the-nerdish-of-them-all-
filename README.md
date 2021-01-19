@@ -21,7 +21,6 @@ To install all dependencies in env:
 
 	python3 pip install requirments.py
 
-You must install manually all dependencies, with pip install, because I don't have a file to install them automatically. You find all the libraries you need at the beginning of the file smart_mirror.py
 	
 #Make project go on:
 
