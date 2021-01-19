@@ -38,6 +38,7 @@ After that you need to run the trainer.py file to train your facial detection al
 	
 	python3 trainer.py
 	
+Finally run the project:
 
 	python3 smart_mirror.py
 Finally product aspect can be found here: https://drive.google.com/file/d/19b1u7DHsgC6GgbKzuPK3BZpZsoT4GTve/view?usp=sharing
