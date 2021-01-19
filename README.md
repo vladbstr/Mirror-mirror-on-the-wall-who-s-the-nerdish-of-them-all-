@@ -17,3 +17,4 @@ You must install manually all dependencies, with pip install, because I don't ha
 In order to start the project, you must first fill in your data in the smart_mirror.py file and after running the take_photos.py file, which will take 20 pictures of you with the help of the Raspberry camera. After that you need to run the trainer.py file to train your facial detection algorithm, with the pictures taken previously. After that run the command to start:
 	python3 smart_mirror.py
 A demo can be found here: https://drive.google.com/file/d/19b1u7DHsgC6GgbKzuPK3BZpZsoT4GTve/view?usp=sharing
+
