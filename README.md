@@ -26,7 +26,7 @@ To install all dependencies in env:
 	
 # Make project go on:
 
-In order to start the project, fill with your data in the smart_mirror.py file and after running the take_photos.py file, which will take 20 pictures of you with the help of the Raspberry camera. Make sure that the light hits the front of your face and make sure that 20 clear pictures came out, checking the images folder.
+In order to start the project, fill with your data in the smart_mirror.py file and after running the take_photos.py file, which will take 20 pictures of you with the help of the Raspberry camera. Make sure that the light hits the front of your face and make sure that 20 clear pictures came out, by checking the images folder.
 	
 	python3 take_photos.py
 	
